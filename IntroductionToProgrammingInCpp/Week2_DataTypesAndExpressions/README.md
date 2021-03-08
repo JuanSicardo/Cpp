@@ -1,6 +1,7 @@
 **Español más abajo**
 
 # Week 2 - Data Types and Expressions
+This week we talked about the data types that exist in C ++ (integers, floating point, characters, strings, and Booleans), as well as the operations that can be applied to each of these types. **The code of this week was copied from the course material**.
 
 ## makefile
 Makefile format with which the programs in this directory can be compiled. To compile all the programs in this directory, use:
@@ -36,6 +37,7 @@ This program asks for a number of days and expresses them in terms of weeks and 
 This program reads a lower case letter of the English alphabet and prints it's upper case.
 
 # Semana 2 - Tipos de Datos y Expresiones
+En esta semana del curso se habló sobre los tipos de datos que existen en C++ (enteros, de punto flotante, de caracteres, cadenas, y booleanos), así como de las operaciones que se les pueden aplicar a cada uno de estos tipos. **El código de esta semana se copió del material del curso**.
 
 ## makefile
 Formato makefile con el cual se pueden compilar los programas de este directorio. Para compilar todos los programas de este directorio se usa:
