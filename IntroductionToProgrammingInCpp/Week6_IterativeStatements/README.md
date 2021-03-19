@@ -31,13 +31,13 @@ This program reads the number of students in a class, and their grades separated
 This program reads a sequence of grades until -1 is entered, and prints the average.
 
 #### digitsum.cpp
-This program reads a positive integer num, and prints the number of digits in num and their sum. For example, 375 has 3 digits and their sum is 15.
+This program reads a positive integer **num**, and prints the number of digits in **num** and their sum. For example, 375 has 3 digits and their sum is 15.
 
 #### printfor.cpp
-This program reads a positive integer n, and using the for statement prints the numbers from 1 up to n.
+This program reads a positive integer **n**, and using the for statement prints the numbers from 1 up to **n**.
 
 #### printwhile.cpp
-This program reads a positive integer n, and using the while statement prints the numbers from 1 up to n.
+This program reads a positive integer **n**, and using the while statement prints the numbers from 1 up to **n**.
 
 # Semana 6 - Estructuras Iterativas
 Los temas de esta semana fueron las estructuras iterativas (bucle while, bucle for). **El código de esta semana es original**.
@@ -70,10 +70,10 @@ Este programa lee la cantidad de estudiantes en una clase y sus calificaciones s
 Este programa lee una secuencia de calificaciones hasta que se ingresa -1 e imprime el promedio.
 
 #### digitsum.cpp
-Este programa lee un número entero positivo num e imprime el número de dígitos en num y su suma. Por ejemplo, 375 tiene 3 dígitos y su suma es 15.
+Este programa lee un número entero positivo **num** e imprime el número de dígitos en **num** y su suma. Por ejemplo, 375 tiene 3 dígitos y su suma es 15.
 
 #### printfor.cpp
-Este programa lee un entero positivo n, y usando la instrucción for imprime los números del 1 al n.
+Este programa lee un entero positivo **n**, y usando la instrucción for imprime los números del 1 al **n**.
 
 #### printwhile.cpp
-Este programa lee un entero positivo n, y usando la instrucción while imprime los números del 1 al n.
+Este programa lee un entero positivo **n**, y usando la instrucción while imprime los números del 1 al **n**.
