@@ -1,4 +1,4 @@
-/*Author: From the "Introduction to Programming in C++" online course by NYUx at edx.org
+/*Author: Juan Antonio Sicardo Contreras
 * Date: march 18 of 2021
 * Description: This program reads a positive integer n, and prints the first n even numbers.
 */
