@@ -17,3 +17,7 @@ IntroductionToProgrammingInCpp/.vs/ProjectSettings.json
 IntroductionToProgrammingInCpp/.vs/slnx.sqlite
 IntroductionToProgrammingInCpp/.vs/VSWorkspaceState.json
 *.ipch
+*.json
+*.db
+AdvancedProgrammingInCpp/.vs/AdvancedProgrammingInCpp/v16/.suo
+*.sqlite
